@@ -1,5 +1,5 @@
 
-## Ling-Yan Li 🎓  
+## Ling-Yan Li  
 Hi, I'm Ling-Yan. I'm always curious about the unknown and thrilled to unveil mysteries like debugging!  
   
  🎓 Master's in theoretical and applied linguistics focusing on computational linguistics at Universitat Pompeu Fabra (UPF)   
