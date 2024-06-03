@@ -3,7 +3,9 @@
 <!--
 **Letieateat/Letieateat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Ling-Yan. I'm always curious about the unknown and thrilled to unveil mysteries, just like debugging! I recently graduated with a Master's in Theoretical and Applied Linguistics with a focus on computational linguistics at Universitat Pompeu Fabra (UPF). I'm mainly interested in various applications of computational semantics, such as sentiment analysis. Put differently, I'm keen on the interaction between machine learning and human language. 
+
+Apart from the above, I have over nine years of experience in the public relations and publishing industry. I possess a proven track record in crafting compelling feature stories, proficient event management, and adept content marketing, public relations, and social media management skills. I hold a bachelor's degree in international relations from National Taiwan University.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
